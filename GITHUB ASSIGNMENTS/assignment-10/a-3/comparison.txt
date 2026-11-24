@@ -1,0 +1,12 @@
+
+1. Local merge combines branches directly using Git commands, while PR merge is done through GitHub after review.
+
+2. I prefer local merge for small personal projects and quick changes.
+
+3. Pull Requests are better for team projects because they allow code review and discussion.
+
+4. The command used to get merged PR changes is: git pull origin main.
+
+5. Git pull performs two steps:
+   - git fetch: Downloads remote changes.
+   - git merge: Merges those changes into the current branch.
