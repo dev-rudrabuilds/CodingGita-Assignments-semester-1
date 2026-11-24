@@ -1,5 +1,0 @@
-
-Local merge combines changes from one branch into another.
-It is performed directly using Git commands.
-It does not require a Pull Request.
-It is useful for merging changes in local development.
